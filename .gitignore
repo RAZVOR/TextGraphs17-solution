@@ -1,0 +1,6 @@
+wiki/
+.ipynb_checkpoints
+*.pt
+models
+
+
