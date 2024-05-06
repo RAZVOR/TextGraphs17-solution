@@ -2,5 +2,8 @@ wiki/
 .ipynb_checkpoints
 *.pt
 models
+*.pic
+*/*.pic
+data/*
 
 
